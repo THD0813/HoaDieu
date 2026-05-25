@@ -1,0 +1,19 @@
+{
+  "name": "Hòa Điệu Source",
+  "identifier": "com.livingone.hoadieu.source",
+  "sourceURL": "https://raw.githubusercontent.com/THD0813/HoaDieu/main/hoadieu_source.json",
+  "apps": [
+    {
+      "name": "Hòa Điệu",
+      "bundleIdentifier": "com.livingone.hoadieu",
+      "developerName": "LivingOne",
+      "version": "1.0",
+      "versionDate": "2026-05-25",
+      "versionDescription": "Phiên bản đầu tiên của ứng dụng Hòa Điệu hỗ trợ thực hành lối sống hòa điệu cơ thể.",
+      "downloadURL": "https://raw.githubusercontent.com/THD0813/HoaDieu/main/HoaDieu.ipa",
+      "localizedDescription": "Ứng dụng giúp bạn theo dõi nhịp sinh học, nhắc nhở sinh hoạt theo giờ, tập thở điều hòa, chế độ dinh dưỡng và xử lý tình huống SOS cấp tính.",
+      "iconURL": "https://raw.githubusercontent.com/THD0813/HoaDieu/main/AppIcon.png",
+      "size": 1471058
+    }
+  ]
+}
